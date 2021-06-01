@@ -1,0 +1,17 @@
+{
+  "name": "what-you-need-know-about-house",
+  "version": "1.0.0",
+  "description": "程序员需要知道的房产信息",
+  "main": "index.js",
+  "repository": "https://github.com/LolipopJ/what-you-need-know-about-house.git",
+  "author": "Lolipop <lolipop0703@qq.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
